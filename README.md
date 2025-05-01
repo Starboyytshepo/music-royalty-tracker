@@ -1,0 +1,1 @@
+Music Royalty Tracker is a Python-based web app built with Streamlit to help musicians, songwriters, and other rights holders track their music royalties and earnings. The app allows users to easily input and manage royalty data, view insights, and export their records for further analysis.
